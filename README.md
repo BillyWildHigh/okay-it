@@ -7,3 +7,5 @@ https://github.com/apple/swift-package-manager.git
  pod 'AppCenter/Analytics'
  pod 'AppCenter/Crashes'
  pod 'AppCenter/Distribute'
+
+https://github.com/Carthage/Carthage.git
