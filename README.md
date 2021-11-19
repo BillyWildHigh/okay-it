@@ -11,3 +11,5 @@ https://github.com/apple/swift-package-manager.git
 https://github.com/Carthage/Carthage.git
 
 https://github.com/microsoft/appcenter-sdk-apple.git
+
+https://github.com/microsoft/appcenter-sdk-apple.git
