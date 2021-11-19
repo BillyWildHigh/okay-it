@@ -9,3 +9,5 @@ https://github.com/apple/swift-package-manager.git
  pod 'AppCenter/Distribute'
 
 https://github.com/Carthage/Carthage.git
+
+https://github.com/microsoft/appcenter-sdk-apple.git
